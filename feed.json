@@ -1,6 +1,6 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Artin Online",
+	"title": "Artin.net",
 	"icon": "https://www.gravatar.com/avatar/40a7621fb99e6573e8451e6f56bfe12c?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
 	"home_page_url": "https://artin.net/",
 	"feed_url": "https://artin.net/feed.json",
