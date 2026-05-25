@@ -13,7 +13,7 @@
 				"content_text": "NVDA 2026.1.1 is uitgebracht.  \n\n### Hoogtepunten\n\nDit is een patch-release om beveiligingsproblemen op te lossen. Er is ook een bugfix opgenomen voor een probleem dat in versie 2026.1 is geïntroduceerd met betrekking tot de manier waarop Ctrl+F wordt verwerkt in Verkenner. Een wijziging die in versie 2026.1 is geïntroduceerd met betrekking tot de manier waarop NVDA verbindingsproblemen met Externe toegang afhandelt, is verwijderd.\n\n### Belangrijke opmerkingen\n\n* Controleer voordat je NVDA 2026.1.1 installeert of de add-ons die je nodig hebt, zijn bijgewerkt om met NVDA 2026.1 of hoger te werken. Add-ons die met NVDA 2026.1 of hoger getest zijn, werken ook met deze versie. Add-ons waarbij de laatst geteste versie 2025.3.3 of lager is, werken niet met deze versie.\n* Als je problemen ervaart na het updaten, herstart dan eerst je computer. Hoewel een herstart bij NVDA-updates niet standaard noodzakelijk is, kan het wel veel voorkomende problemen oplossen na het updaten.\n\n### Update installeren\n\nJe kunt de update downloaden via  \n[www.nvaccess.org/download](https://www.nvaccess.org/download)  \nof via NVDA: **NVDA-menu → Help → Op update controleren...**  \n\nAfhankelijk van je instellingen kan NVDA automatisch melden dat er een update beschikbaar is.\n\n### Problemen ontdekt?\n\nFouten in de Nederlandse vertaling kun je doorgeven via mijn  \n[contactformulier](https://contact.artin.net).  \nAndere problemen kun je in het Engels melden via  \n[GitHub](https://github.com/nvaccess/nvda/issues/new).\n",
 				"date_published": "2026-05-20T10:34:22+02:00",
 				"url": "https://artin.net/2026/05/20/nvda-beschikbaar/",
-				"tags": ["Windows Toegankelijkheid","NVDA"]
+				"tags": ["Windows Toegankelijkheid - Nieuws","NVDA"]
 			},
 			{
 				"id": "http://artindk.micro.blog/2026/05/20/meiupdate-van-jaws-zoomtext-en/",
@@ -22,7 +22,7 @@
 				"content_text": "De mei-update van **JAWS, ZoomText en Fusion 2026** is uitgebracht.\n\nVoor een overzicht van alle wijzigingen per product, zie:\n- [Release en updates ZoomText][zt]\n- [Release en updates JAWS][jaws]\n- [Release en updates Fusion][fusion]\n\n### Belangrijke opmerkingen\n\n1. Gebruik je **Fusion**?  \n   Controleer dan **alleen in Fusion** op updates.  \n   De Fusion-update installeert automatisch ook de bijbehorende updates voor **JAWS** en **ZoomText**.\n\n2. Let op bij het installeren van updates:  \n   Nadat je hebt bevestigd dat je de update wilt installeren (**Enter op Ja**), kan een venster van **Windows Gebruikersaccountbeheer** verschijnen, dat je eveneens met **Ja** bevestigt.  \n   Daarna volgt een venster met de beschikbare updates.  \n   In dit venster moet je **eerst het selectievakje bij de update aanvinken**.  \n   Pas daarna ga je naar de knop **Installeren**.  \n   Het selectievakje is niet altijd standaard geselecteerd.\n\n### Op updates controleren\n\n- **JAWS:**  \n  **JAWS-contextmenu → Help → Controleer op updates**\n\n- **ZoomText / Fusion:**  \n  **Hoofdmenu → Help → Controleer op updates**\n\nHet kan enkele dagen tot weken duren voor je de update krijgt aangeboden, als alternatief kun je de updates hieronder ook handmatig downloaden.\n\n### Handmatig downloaden\n\n#### JAWS\n- [Offline](https://software.vfo.digital/JAWS/2026/2026.2605.43.400/8F4966A2-FAAA-4CAF-8B73-84583825CD75/J2026.2605.43.400-Offline-x64.exe)\n- [Online](https://software.vfo.digital/JAWS/2026/2026.2605.43.400/8F4966A2-FAAA-4CAF-8B73-84583825CD75/J2026.2605.43.400.exe)\n- [ARM64](https://software.vfo.digital/JAWS/2026/2026.2605.43.400/8F4966A2-FAAA-4CAF-8B73-84583825CD75/J2026.2605.43.400-Offline-arm64.exe)\n\n#### ZoomText\n- [Offline](https://software.vfo.digital/ZoomText/2026/2026.2605.28.400/F549C7EF-2F61-4724-AED3-735D2CA1D224/ZT2026.2605.28.400-Offline-x64.exe)\n- [Online](https://software.vfo.digital/ZoomText/2026/2026.2605.28.400/F549C7EF-2F61-4724-AED3-735D2CA1D224/ZT2026.2605.28.400.exe)\n- [ARM64](https://software.vfo.digital/ZoomText/2026/2026.2605.28.400/F549C7EF-2F61-4724-AED3-735D2CA1D224/ZT2026.2605.28.400-Offline-ARM64.exe)\n\n#### Fusion\n- [Offline](https://software.vfo.digital/Fusion/2026/2026.2605.8.400/8453537E-6454-4D80-9177-29E077D60B6A/F2026.2605.8.400-Offline-x64.exe)\n- [Online](https://software.vfo.digital/Fusion/2026/2026.2605.8.400/8453537E-6454-4D80-9177-29E077D60B6A/F2026.2605.8.400.exe)\n- [ARM64](https://software.vfo.digital/Fusion/2026/2026.2605.8.400/8453537E-6454-4D80-9177-29E077D60B6A/F2026.2605.8.400-Offline-arm64.exe)\n\n[zt]: https://services.artin.net/vispero/2026-05/zt.htm\n[jaws]: https://services.artin.net/vispero/2026-05/jaws.htm\n[fusion]: https://services.artin.net/vispero/2026-05/fusion.htm\n",
 				"date_published": "2026-05-20T10:20:14+02:00",
 				"url": "https://artin.net/2026/05/20/meiupdate-van-jaws-zoomtext-en/",
-				"tags": ["Windows Toegankelijkheid","JAWS","Fusion","ZoomText"]
+				"tags": ["Windows Toegankelijkheid - Nieuws","JAWS","Fusion","ZoomText"]
 			},
 			{
 				"id": "http://artindk.micro.blog/2026/05/06/nvda-beschikbaar/",
@@ -31,7 +31,7 @@
 				"content_text": "NVDA 2026.1 is uitgebracht.  \nDeze release bevat ondersteuning voor het lezen van wiskundige inhoud met MathCAT, dat nu is ingebouwd in NVDA.\n\nEr zijn verschillende verbeteringen aangebracht aan de spraakweergave. Spel- en grammaticafouten kunnen nu met een geluid in plaats van spraak worden gemeld tijdens het lezen. Je kunt NVDA nu zo configureren dat het automatisch alles voorleest nadat de inhoud succesvol is herkend, zoals met Windows OCR. NVDA meldt niet langer dat de voorgelezen taal niet wordt ondersteund wanneer de synthesizer de taal wel ondersteunt, maar niet het specifieke dialect. NVDA ondersteunt nu 64-bits SAPI 5-stemmen.\n\nOok de brailleondersteuning is verbeterd. Deze blijft nu werken bij het overschakelen naar een beveiligd scherm, zoals het aanmeldscherm of het dialoogvenster Gebruikersaccountbeheer. NVDA-berichten van de lokale computer worden nu in braille weergegeven bij het bedienen van een computer via Externe toegang. Spel- en grammaticafouten, evenals het aantal items in een lijst in de bladermodus, kunnen nu in braille worden weergegeven. Er zijn ook andere braillebugfixes toegevoegd, onder andere in Microsoft Outlook en LibreOffice Writer.\n\nIn de bladermodus van webbrowsers behandelt NVDA besturingselementen met een breedte of hoogte van 0 niet langer als onzichtbaar. Hierdoor kan het mogelijk worden om toegang te krijgen tot voorheen ontoegankelijke inhoud die alleen toegankelijk was voor schermlezers op sommige websites. Onjuist opgemaakte links voorkomen niet langer dat NVDA inhoud leest in Google Chrome en andere op Chromium gebaseerde browsers. De markering in de bladermodus verschijnt nu in de resultaten van inhoudsherkenning, zoals bij gebruik van Windows OCR. In Microsoft Word zijn niet-toegewezen snelnavigatieopdrachten toegevoegd om naar referenties te springen. Deze worden nu ook weergegeven in de lijst met elementen.\n\nHet is nu mogelijk om de resultaten van een virusscan voor een add-on uit de Add-on Store te bekijken. Voor add-ons waarbij deze beschikbaar is, kun je ook het wijzigingslogboek van de add-on bekijken. De betrouwbaarheid van achtergrondupdates voor add-ons is verbeterd.\n\nEen nieuwe categorie ‘Privacy en beveiliging’ is toegevoegd aan het instellingendialoogvenster van NVDA. De instellingen ‘Logniveau’ en ‘NV Access toestaan om NVDA-gebruiksstatistieken te verzamelen’ zijn hierheen verplaatst vanuit de categorie ‘Algemeen’. De instellingen voor Schermgordijn zijn ook verplaatst van de categorie ‘Zicht’ naar deze pagina. Bovendien zijn de instellingen van Schermgordijn nu onafhankelijk van het configuratieprofiel.\n\nDe NVDA-interface is nu vertaald naar het Cambodjaans. Liblouis, Unicode CLDR en eSpeak NG zijn bijgewerkt. Tabellen toegevoegd voor Engels graad 3, Japans (Rokuten Kanji) en Macedonisch braille (niet gecontracteerd). De tabellen voor Bijbels Hebreeuws, Unified English Braille, Grieks Internationaal, Hongaars, Noors, Portugees (8-punts) en Slowaaks braille zijn verbeterd. Emoji-lokalisaties voor Luxemburgs zijn toegevoegd.\n\nEr zijn ook veel andere bugfixes en verbeteringen doorgevoerd.\n\n### Belangrijke opmerkingen\n\n* Deze release verbreekt de compatibiliteit met bestaande add-ons. Controleer voordat je NVDA 2026.1 installeert of de add-ons die je nodig hebt, zijn bijgewerkt.\n* Windows 8.1 wordt niet langer ondersteund. Windows 10 is de minimaal ondersteunde Windows-versie. We raden aan om te upgraden naar Windows 11 of, indien dat niet mogelijk is, naar de nieuwste Windows 10-versie (22H2).\n* 32-bits Windows wordt niet langer ondersteund. Windows 10 op ARM wordt ook niet langer ondersteund.\n* Wiris MathPlayer wordt niet langer ondersteund.\n\n### Update installeren\n\nJe kunt de update downloaden via  \n[www.nvaccess.org/download](https://www.nvaccess.org/download)  \nof via NVDA: **NVDA-menu → Help → Op update controleren...**  \n\nAfhankelijk van je instellingen kan NVDA automatisch melden dat er een update beschikbaar is.\n\n### Problemen ontdekt?\n\nFouten in de Nederlandse vertaling kun je doorgeven via mijn  \n[contactformulier](https://contact.artin.net).  \nAndere problemen kun je in het Engels melden via  \n[GitHub](https://github.com/nvaccess/nvda/issues/new).\n",
 				"date_published": "2026-05-06T08:48:43+02:00",
 				"url": "https://artin.net/2026/05/06/nvda-beschikbaar/",
-				"tags": ["Windows Toegankelijkheid","NVDA"]
+				"tags": ["Windows Toegankelijkheid - Nieuws","NVDA"]
 			},
 			{
 				"id": "http://artindk.micro.blog/2026/03/25/maartupdate-van-jaws-zoomtext-en/",
@@ -40,7 +40,7 @@
 				"content_text": "De maart-update van **JAWS, ZoomText en Fusion 2026** is uitgebracht.\n\nVoor een overzicht van alle wijzigingen per product, zie:\n- [Release en updates ZoomText][zt]\n- [Release en updates JAWS][jaws]\n- [Release en updates Fusion][fusion]\n\n### Belangrijke opmerkingen\n\n1. Gebruik je **Fusion**?  \n   Controleer dan **alleen in Fusion** op updates.  \n   De Fusion-update installeert automatisch ook de bijbehorende updates voor **JAWS** en **ZoomText**.\n\n2. Let op bij het installeren van updates:  \n   Nadat je hebt bevestigd dat je de update wilt installeren (**Enter op Ja**), kan een venster van **Windows Gebruikersaccountbeheer** verschijnen, dat je eveneens met **Ja** bevestigt.  \n   Daarna volgt een venster met de beschikbare updates.  \n   In dit venster moet je **eerst het selectievakje bij de update aanvinken**.  \n   Pas daarna ga je naar de knop **Installeren**.  \n   Het selectievakje is niet altijd standaard geselecteerd.\n\n### Op updates controleren\n\n- **JAWS:**  \n  **JAWS-contextmenu → Help → Controleer op updates**\n\n- **ZoomText / Fusion:**  \n  **Hoofdmenu → Help → Controleer op updates**\n\nHet kan enkele dagen tot weken duren voor je de update krijgt aangeboden, als alternatief kun je de updates hieronder ook handmatig downloaden.\n\n### Handmatig downloaden\n\n#### JAWS\n- [Offline](https://software.vfo.digital/JAWS/2026/2026.2603.86.400/4C358832-E709-4832-9C4B-47357E07F729/J2026.2603.86.400-Offline-x64.exe)\n- [Online](https://software.vfo.digital/JAWS/2026/2026.2603.86.400/4C358832-E709-4832-9C4B-47357E07F729/J2026.2603.86.400.exe)\n- [ARM64](https://software.vfo.digital/JAWS/2026/2026.2603.86.400/4C358832-E709-4832-9C4B-47357E07F729/J2026.2603.86.400-Offline-arm64.exe)\n\n#### ZoomText\n- [Offline](https://software.vfo.digital/ZoomText/2026/2026.2603.45.400/170AD03F-4F8D-4C4E-B364-F383688CE491/ZT2026.2603.45.400-Offline-x64.exe)\n- [Online](https://software.vfo.digital/ZoomText/2026/2026.2603.45.400/170AD03F-4F8D-4C4E-B364-F383688CE491/ZT2026.2603.45.400.exe)\n- [ARM64](https://software.vfo.digital/ZoomText/2026/2026.2603.45.400/170AD03F-4F8D-4C4E-B364-F383688CE491/ZT2026.2603.45.400-Offline-ARM64.exe)\n\n#### Fusion\n- [Offline](https://software.vfo.digital/Fusion/2026/2026.2603.10.400/DC939FB2-1C5B-4347-B0DE-C141532D1DAB/F2026.2603.10.400-Offline-x64.exe)\n- [Online](https://software.vfo.digital/Fusion/2026/2026.2603.10.400/DC939FB2-1C5B-4347-B0DE-C141532D1DAB/F2026.2603.10.400.exe)\n- [ARM64](https://software.vfo.digital/Fusion/2026/2026.2603.10.400/DC939FB2-1C5B-4347-B0DE-C141532D1DAB/F2026.2603.10.400-Offline-arm64.exe)\n\n[zt]: https://services.artin.net/vispero/2026-03/zt.htm\n[jaws]: https://services.artin.net/vispero/2026-03/jaws.htm\n[fusion]: https://services.artin.net/vispero/2026-03/fusion.htm\n",
 				"date_published": "2026-03-25T20:01:27+02:00",
 				"url": "https://artin.net/2026/03/25/maartupdate-van-jaws-zoomtext-en/",
-				"tags": ["Windows Toegankelijkheid","JAWS","Fusion","ZoomText"]
+				"tags": ["Windows Toegankelijkheid - Nieuws","JAWS","Fusion","ZoomText"]
 			},
 			{
 				"id": "http://artindk.micro.blog/2026/02/16/nvda-beschikbaar/",
@@ -49,7 +49,7 @@
 				"content_text": "NVDA 2025.3.3 is uitgebracht.  \nDeze update lost een beveiligingsprobleem op, waarbij NVDA onverwacht als administrator uitgevoerd kon worden.\n\nJe kunt de update downloaden via [www.nvaccess.org/download](https://www.nvaccess.org/download),  \nof via NVDA via **NVDA-menu → Help → Op update controleren...**  \nAfhankelijk van je instellingen kan NVDA automatisch melden dat er een update beschikbaar is.\n\nFouten in de Nederlandse vertaling kun je doorgeven via mijn [contactformulier](https://contact.artin.net).\n",
 				"date_published": "2026-02-16T20:09:59+02:00",
 				"url": "https://artin.net/2026/02/16/nvda-beschikbaar/",
-				"tags": ["Windows Toegankelijkheid","NVDA"]
+				"tags": ["Windows Toegankelijkheid - Nieuws","NVDA"]
 			},
 			{
 				"id": "http://artindk.micro.blog/2026/02/11/februariupdate-van-jaws-zoomtext-en/",
@@ -58,7 +58,7 @@
 				"content_text": "De februari-update van **JAWS, ZoomText en Fusion 2026** is uitgebracht.\n\nVoor een overzicht van alle wijzigingen per product, zie:\n- [Release en updates ZoomText][zt]\n- [Release en updates JAWS][jaws]\n- [Release en updates Fusion][fusion]\n\n### Belangrijke opmerkingen\n\n1. Gebruik je **Fusion**?  \n   Controleer dan **alleen in Fusion** op updates.  \n   De Fusion-update installeert automatisch ook de bijbehorende updates voor **JAWS** en **ZoomText**.\n\n2. Let op bij het installeren van updates:  \n   Nadat je hebt bevestigd dat je de update wilt installeren (**Enter op Ja**), kan een venster van **Windows Gebruikersaccountbeheer** verschijnen, dat je eveneens met **Ja** bevestigt.  \n   Daarna volgt een venster met de beschikbare updates.  \n   In dit venster moet je **eerst het selectievakje bij de update aanvinken**.  \n   Pas daarna ga je naar de knop **Installeren**.  \n   Het selectievakje is niet altijd standaard geselecteerd.\n\n### Op updates controleren\n\nHet kan enkele dagen tot weken duren voor je de update krijgt aangeboden, als alternatief kun je de updates hieronder ook handmatig downloaden.\n\n- **JAWS:**  \n  **JAWS-contextmenu → Help → Controleer op updates**\n\n- **ZoomText / Fusion:**  \n  **Hoofdmenu → Help → Controleer op updates**\n\n### Handmatig downloaden\n\n#### JAWS\n- [Offline](https://software.vfo.digital/JAWS/2026/2026.2602.49.400/C3FA20C1-4E7C-42B7-A0F2-187914C92938/J2026.2602.49.400-Offline-x64.exe)\n- [Online](https://software.vfo.digital/JAWS/2026/2026.2602.49.400/C3FA20C1-4E7C-42B7-A0F2-187914C92938/J2026.2602.49.400.exe)\n- [ARM64](https://software.vfo.digital/JAWS/2026/2026.2602.49.400/C3FA20C1-4E7C-42B7-A0F2-187914C92938/J2026.2602.49.400-Offline-arm64.exe)\n\n#### ZoomText\n- [Offline](https://software.vfo.digital/ZoomText/2026/2026.2602.13.400/CA2690F6-CA7D-403F-B040-E7B1F2A6E227/ZT2026.2602.13.400-Offline-x64.exe)\n- [Online](https://software.vfo.digital/ZoomText/2026/2026.2602.13.400/CA2690F6-CA7D-403F-B040-E7B1F2A6E227/ZT2026.2602.13.400.exe)\n- [ARM64](https://software.vfo.digital/ZoomText/2026/2026.2602.13.400/CA2690F6-CA7D-403F-B040-E7B1F2A6E227/ZT2026.2602.13.400-Offline-ARM64.exe)\n\n#### Fusion\n- [Offline](https://software.vfo.digital/Fusion/2026/2026.2602.8.400/1EB272B4-A0E1-4B5E-8E91-FFA87E11D6F7/F2026.2602.8.400-Offline-x64.exe)\n- [Online](https://software.vfo.digital/Fusion/2026/2026.2602.8.400/1EB272B4-A0E1-4B5E-8E91-FFA87E11D6F7/F2026.2602.8.400.exe)\n- [ARM64](https://software.vfo.digital/Fusion/2026/2026.2602.8.400/1EB272B4-A0E1-4B5E-8E91-FFA87E11D6F7/F2026.2602.8.400-Offline-arm64.exe)\n\n[zt]: https://services.artin.net/vispero/2026-02/zt.htm\n[jaws]: https://services.artin.net/vispero/2026-02/jaws.htm\n[fusion]: https://services.artin.net/vispero/2026-02/fusion.htm\n",
 				"date_published": "2026-02-11T20:20:29+02:00",
 				"url": "https://artin.net/2026/02/11/februariupdate-van-jaws-zoomtext-en/",
-				"tags": ["Windows Toegankelijkheid","JAWS","Fusion","ZoomText"]
+				"tags": ["Windows Toegankelijkheid - Nieuws","JAWS","Fusion","ZoomText"]
 			},
 			{
 				"id": "http://artindk.micro.blog/2026/01/27/ik-heb-gestemd-op-bart/",
@@ -67,7 +67,7 @@
 				"content_text": "Ik heb gestemd op Bart Arens en Spijkers Met Koppen. Stem nu ook op jouw favoriete programma voor de RadioRing 2025! [radioring.avrotros.nl](https://radioring.avrotros.nl) #radioring2025\n",
 				"date_published": "2026-01-27T19:04:41+02:00",
 				"url": "https://artin.net/2026/01/27/ik-heb-gestemd-op-bart/",
-				"tags": ["Posts"]
+				"tags": ["Persoonlijke posts"]
 			},
 			{
 				"id": "http://artindk.micro.blog/2026/01/23/schermlezer-monitor-nederland/",
@@ -76,7 +76,7 @@
 				"content_text": "## Help mee: onderzoek naar schermlezergebruik in Nederland\n\nIn Nederland weten we nog te weinig over het gebruik van schermlezers. Voor Europa en de VS zijn cijfers beschikbaar, maar voor Nederland ontbreken die grotendeels. Met beter inzicht in **welke schermlezers** mensen gebruiken en **hoe** ze die inzetten, kunnen websites en apps veel gerichter worden verbeterd.\n\nGebruik jij **regelmatig of af en toe** een schermlezer?  \nVul dan deze **korte enquête van Chent** in. Het kost slechts **2–3 minuten**.\n\nAlvast bedankt voor je bijdrage aan een **toegankelijker internet**.\n\n[Ga naar de enquête: Schermlezer Monitor Nederland 2026](https://www.chent.nl/schermlezer-monitor-nederland-2026/)\n\n",
 				"date_published": "2026-01-23T22:07:37+02:00",
 				"url": "https://artin.net/2026/01/23/schermlezer-monitor-nederland/",
-				"tags": ["Windows Toegankelijkheid"]
+				"tags": ["Windows Toegankelijkheid - Nieuws"]
 			},
 			{
 				"id": "http://artindk.micro.blog/2026/01/12/ik-heb-gestemd-op-tim/",
@@ -85,7 +85,7 @@
 				"content_text": "Ik heb gestemd op Tim Op het Broek en Spijkers Met Koppen. Stem nu ook op jouw favoriete programma voor de RadioRing 2025! [radioring.avrotros.nl](https://radioring.avrotros.nl) #radioring2025\n",
 				"date_published": "2026-01-12T20:43:55+02:00",
 				"url": "https://artin.net/2026/01/12/ik-heb-gestemd-op-tim/",
-				"tags": ["Posts"]
+				"tags": ["Persoonlijke posts"]
 			},
 			{
 				"id": "http://artindk.micro.blog/2025/12/17/decemberupdate-van-jaws-zoomtext-en/",
@@ -94,7 +94,7 @@
 				"content_text": "De december-update van **JAWS, ZoomText en Fusion 2026** is uitgebracht.\n\nVoor een overzicht van alle wijzigingen per product, zie:\n- [Release en updates ZoomText][zt]\n- [Release en updates JAWS][jaws]\n- [Release en updates Fusion][fusion]\n\n### Belangrijke opmerkingen\n\n1. Gebruik je **Fusion**?  \n   Controleer dan **alleen in Fusion** op updates.  \n   De Fusion-update installeert automatisch ook de bijbehorende updates voor **JAWS** en **ZoomText**.\n\n2. Let op bij het installeren van updates:  \n   Nadat je hebt bevestigd dat je de update wilt installeren (**Enter op Ja**), kan een venster van **Windows Gebruikersaccountbeheer** verschijnen, dat je eveneens met **Ja** bevestigt.  \n   Daarna volgt een venster met de beschikbare updates.  \n   In dit venster moet je **eerst het selectievakje bij de update aanvinken**.  \n   Pas daarna ga je naar de knop **Installeren**.  \n   Het selectievakje is niet altijd standaard geselecteerd.\n\n### Op updates controleren\n\nHet kan enkele dagen tot weken duren voor je de update krijgt aangeboden, als alternatief kun je de updates hieronder ook handmatig downloaden.\n\n- **JAWS:**  \n  **JAWS-contextmenu → Help → Controleer op updates**\n\n- **ZoomText / Fusion:**  \n  **Hoofdmenu → Help → Controleer op updates**\n\n### Handmatig downloaden\n\n#### JAWS\n- [Offline](https://software.vfo.digital/JAWS/2026/2026.2512.50.400/C8738591-C971-4DEC-97E1-55CC59C5F88A/J2026.2512.50.400-Offline-x64.exe)\n- [Online](https://software.vfo.digital/JAWS/2026/2026.2512.50.400/C8738591-C971-4DEC-97E1-55CC59C5F88A/J2026.2512.50.400.exe)\n- [ARM64](https://software.vfo.digital/JAWS/2026/2026.2512.50.400/C8738591-C971-4DEC-97E1-55CC59C5F88A/J2026.2512.50.400-Offline-arm64.exe)\n\n#### ZoomText\n- [Offline](https://software.vfo.digital/ZoomText/2026/2026.2512.27.400/20D920B3-4834-4FF5-9877-C5E144FA2617/ZT2026.2512.27.400-Offline-x64.exe)\n- [Online](https://software.vfo.digital/ZoomText/2026/2026.2512.27.400/20D920B3-4834-4FF5-9877-C5E144FA2617/ZT2026.2512.27.400.exe)\n- [ARM64](https://software.vfo.digital/ZoomText/2026/2026.2512.27.400/20D920B3-4834-4FF5-9877-C5E144FA2617/ZT2026.2512.27.400-Offline-ARM64.exe)\n\n#### Fusion\n- [Offline](https://software.vfo.digital/Fusion/2026/2026.2512.31.400/F1053256-7A5F-408F-93ED-4A40D2E2FFC8/F2026.2512.31.400-Offline-x64.exe)\n- [Online](https://software.vfo.digital/Fusion/2026/2026.2512.31.400/F1053256-7A5F-408F-93ED-4A40D2E2FFC8/F2026.2512.31.400.exe)\n- [ARM64](https://software.vfo.digital/Fusion/2026/2026.2512.31.400/F1053256-7A5F-408F-93ED-4A40D2E2FFC8/F2026.2512.31.400-Offline-arm64.exe)\n\n[zt]: https://services.artin.net/vispero/2025-12/Release%20en%20updates%20ZoomText%202026%20(december%202025).htm\n[jaws]: https://services.artin.net/vispero/2025-12/Release%20en%20updates%20JAWS%202026%20(december%202025).htm\n[fusion]: https://services.artin.net/vispero/2025-12/Release%20en%20updates%20Fusion%202026%20(december%202025).htm\n",
 				"date_published": "2025-12-17T18:54:55+02:00",
 				"url": "https://artin.net/2025/12/17/decemberupdate-van-jaws-zoomtext-en/",
-				"tags": ["Windows Toegankelijkheid","JAWS","Fusion","ZoomText"]
+				"tags": ["Windows Toegankelijkheid - Nieuws","JAWS","Fusion","ZoomText"]
 			},
 			{
 				"id": "http://artindk.micro.blog/2025/11/24/nvda-beschikbaar/",
@@ -103,7 +103,7 @@
 				"content_text": "NVDA 2025.3.2 is uitgebracht.  \nDeze update lost een beveiligingsprobleem op.\n\nJe kunt de update downloaden via [www.nvaccess.org/download](https://www.nvaccess.org/download),  \nof via NVDA via **NVDA-menu → Help → Op update controleren...**  \nAfhankelijk van je instellingen kan NVDA automatisch melden dat er een update beschikbaar is.\n\nFouten in de Nederlandse vertaling kun je doorgeven via mijn [contactformulier](https://contact.artin.net).\n",
 				"date_published": "2025-11-24T21:36:37+02:00",
 				"url": "https://artin.net/2025/11/24/nvda-beschikbaar/",
-				"tags": ["Windows Toegankelijkheid","NVDA"]
+				"tags": ["Windows Toegankelijkheid - Nieuws","NVDA"]
 			},
 			{
 				"id": "http://artindk.micro.blog/2025/10/27/nvda-beschikbaar/",
@@ -112,7 +112,7 @@
 				"content_text": "NVDA 2025.3.1 is uitgebracht.  \nDeze update lost een beveiligingsprobleem en een bug op.\n\nJe kunt de update downloaden via [www.nvaccess.org/download](https://www.nvaccess.org/download),  \nof via NVDA via **NVDA-menu → Help → Op update controleren...**  \nAfhankelijk van je instellingen kan NVDA automatisch melden dat er een update beschikbaar is.\n\nFouten in de Nederlandse vertaling kun je doorgeven via mijn [contactformulier](https://contact.artin.net).\n",
 				"date_published": "2025-10-27T19:47:37+02:00",
 				"url": "https://artin.net/2025/10/27/nvda-beschikbaar/",
-				"tags": ["Windows Toegankelijkheid","NVDA"]
+				"tags": ["Windows Toegankelijkheid - Nieuws","NVDA"]
 			},
 			{
 				"id": "http://artindk.micro.blog/2018/02/05/promo-video-van-nv-access/",
@@ -121,7 +121,7 @@
 				"content_text": "NV Access heeft een nieuwe promo video gemaakt over de NVDA schermlezer. In de video wordt vertelt wat NVDA is en waarom het zo belangrijk is. Ook zijn er verschillende NVDA gebruikers aan het woord. In een Tweet heeft NV Access aangegeven dat er nog een langere video komt. De video is hier onder te bekijken.\n\n[www.youtube.com/watch](https://www.youtube.com/watch?v=Ks7AwV_uxO0)\n",
 				"date_published": "2018-02-05T11:24:04+02:00",
 				"url": "https://artin.net/2018/02/05/promo-video-van-nv-access/",
-				"tags": ["Windows Toegankelijkheid","NVDA"]
+				"tags": ["Windows Toegankelijkheid - Nieuws","NVDA"]
 			},
 			{
 				"id": "http://artindk.micro.blog/2017/05/05/nvda-gebruikers-en-ontwikkelaarsconferentie/",
@@ -130,7 +130,7 @@
 				"content_text": "Dit bericht is door Leonard de Ruijter geplaatst in de <a href=\"https://groups.io/g/nvdadutch\">nvda dutch</a> mailgroep. Het originele bericht is te lezen via <a href=\"https://groups.io/g/nvdadutch/message/1101\">deze link</a>.\nBeste Mensen,\n\nVan 19 t/m 21 mei staat er een internationale conferentie gepland voor gebruikers en ontwikkelaars van NVDA. Dit is een digitale conferentie, d.w.z. de conferentie heeft plaats via een Team Talk voice chat server.\n\nEventuele geïnteresseerden verwijs ik graag naar de Engelse website: <a href=\"https://www.nvdacon.org/\">https://www.nvdacon.org/</a>\n\nEnkele onderwerpen die de revue zullen passeren:\n\n<ul>\n<li>Google en Google Chrome: 19-5-2017 23:00:00</li>\n<li>Een discussie over hoe de NVDA community kan bijdragen aan de ontwikkeling: 20-5-2017 03:00:00</li>\n<li>Een vergelijking tussen NVDA en andere schermlezers, sterke en zwakke punten: 20-5-2017 18:00:00</li>\n<li>NVDA in onderwijssituaties: 20-5-2017 18:40:00</li>\n<li>Dictationbridge: 20-5-2017 19:20:00</li>\n<li>Windows 10 en NVDA: 20-5-2017 23:00:00</li>\n</ul>\n\nOok is er een presentatie van NV Access over de huidige status van NVDA en wat er in de toekomst te verwachten valt.\n\nDe vergelijking tussen NVDA en andere schermlezers wordt gepresenteerd door mijn persoontje. Ik hoop in 20 minuten tijd een beeld te schetsen van NVDA in vergelijking met SuperNova, JAWS en WindowEyes. Eventuele input daarvoor is wat mij betreft van harte welkom, dus, ik ben erg benieuwd wat zaken zijn die jullie missen in NVDA, of waarin jullie NVDA juist vinden uitblinken in vergelijking met andere schermlezers.\n\n",
 				"date_published": "2017-05-05T20:22:00+02:00",
 				"url": "https://artin.net/2017/05/05/nvda-gebruikers-en-ontwikkelaarsconferentie/",
-				"tags": ["Windows Toegankelijkheid","NVDA"]
+				"tags": ["Windows Toegankelijkheid - Nieuws","NVDA"]
 			},
 			{
 				"id": "http://artindk.micro.blog/2017/04/03/extra-stemmen/",
@@ -139,7 +139,7 @@
 				"content_text": "In NVDA Wordt standaard gebruik gemaakt van de gratis en opensource synthesizer <a href=\"https://github.com/espeak-ng/espeak-ng\">eSpeak NG</a>. Er zijn echter ook verschillende andere gratis en betaalde synthesizers beschikbaar. In dit artikel laat ik verschillende opties zien.\n<!--more-->\n\n<h2>Gratis</h2>\n\n<h3>Microsoft Speech Platform</h3>\n\nHoewel de Microsoft Speech Platform stemmen normaalgesproken gebruikt worden voor server-gebaseerde spraaktoepassingen, zijn de stemmen ook beschikbaar in NVDA. Er zijn stemmen beschikbaar voor verschillende talen, waaronder het Nederlands.\n\n<h4>Installatie</h4>\n\nOm Microsoft Speech Platform te installeren, doe het volgende.\n\n<ul>\n    <li>Download en installeer <a href=\"http://www.microsoft.com/download/en/details.aspx?id=27225\">Microsoft Speech Platform - Server Runtime (Version 11), x86</a>. Ook voor x64 systemen moet de x86 versie gedownload worden.</li>\n    <li>Download en installeer van <a href=\"http://www.microsoft.com/download/en/details.aspx?id=27224\">deze pagina</a> de gewenste stemmen.</li>\n</ul>\n\nMicrosoft Speech Platform moet nu bij de synthesizers staan. Je kunt het synthesizer venster openen met NVDA+CTRL+S.\n\n<h3>NV Speech Player</h3>\n\nEen andere gratis optie met ondersteuning voor de Nederlandse taal is NV Speech Player. Ga naar <a href=\"https://addons.nvda-project.org/addons/speechPlayerInEspeak.nl.html\">deze pagina</a> voor meer informatie.\n\n<h2>Betaald</h2>\n\n<h3>Nuance Vocalizer Expressive</h3>\n\nJe kunt de Nuance Vocalizer Expressive synthesizer kopen voor NVDA. Dit is een erg populaire synthesizer die onder andere wordt gebruikt in Jaws en Apple VoiceOver en bekende stemmen bevat als Xander en Ellen. Je hebt twee opties.\n\n<ul>\n    <li>De Vocalizer for NVDA addon. Ga naar <a href=\"http://www.vocalizer-nvda.com/\">deze pagina</a> voor meer informatie.</li>\n    <li>De Eloquence and Vocalizer Expressive Addon for NVDA van Code Factory. Ga naar <a href=\"http://codefactoryglobal.com/app-store/voices-for-nvda/\">deze pagina</a> voor meer informatie.</li>\n</ul>\n\n<h2>Microsoft SAPI 5</h2>\n\nMicrosoft Speech API (SAPI) 5 stemmen kunnen door een heleboel Windows programma’s die met spraak werken gebruikt worden, waaronder NVDA. In het NVDA synthesizer venster (NVDA+CTRL+S) kun je Microsoft Speech API version 5 selecteren. Vervolgens kun je in het steminstellingen venster (NVDA+CTRL+V) kiezen tussen de geïnstalleerde SAPI 5 stemmen. Op internet kun je verschillende betaalde en gratis SAPI 5 stemmen vinden.\n\n<h2>Mis je een synthesizer in deze lijst?</h2>\n\nAls je zelf nog een synthesizer voor NVDA kent die niet in deze lijst staat, laat dit dan weten in de reacties.\n",
 				"date_published": "2017-04-03T02:17:00+02:00",
 				"url": "https://artin.net/2017/04/03/extra-stemmen/",
-				"tags": ["Windows Toegankelijkheid","NVDA","tutorials"]
+				"tags": ["Windows Toegankelijkheid - Nieuws","NVDA","tutorials"]
 			},
 			{
 				"id": "http://artindk.micro.blog/2017/02/22/nvda-is-uit/",
@@ -148,7 +148,7 @@
 				"content_text": "Vandaag is versie 2017.1 van NVDA uitgekomen. Hoogtepunten in deze versie zijn het melden van secties en tekstkolommen in Microsoft Word; Ondersteuning voor lezen, navigeren en annoteren van boeken in Kindle voor PC; en verbeterde ondersteuning voor Microsoft Edge. Je kunt deze versie downloaden van [www.nvaccess.org/download](http://www.nvaccess.org/download?nvdaVersion=2017.1.)\n",
 				"date_published": "2017-02-22T07:43:00+02:00",
 				"url": "https://artin.net/2017/02/22/nvda-is-uit/",
-				"tags": ["Windows Toegankelijkheid","NVDA"]
+				"tags": ["Windows Toegankelijkheid - Nieuws","NVDA"]
 			},
 			{
 				"id": "http://artindk.micro.blog/2017/02/15/nvda-rc/",
@@ -157,7 +157,7 @@
 				"content_text": "Vandaag is NVDA 2017.1rc1 uitgebracht. Dit is nog een testversie, maar als er geen belangrijke problemen worden gevonden is deze versie gelijk aan de uiteindelijke stabiele  versie 2017.1. Hoogtepunten in deze versie zijn melden van secties en tekstkolommen in Microsoft Word; Ondersteuning voor lezen, navigeren en annoteren van boeken in Kindle voor PC; en verbeterde ondersteuning voor Microsoft Edge. Als je deze versie wilt uitproberen, kun je deze downloaden van [www.nvaccess.org/download](http://www.nvaccess.org/download?nvdaVersion=2017.1rc1.)\n",
 				"date_published": "2017-02-15T11:42:00+02:00",
 				"url": "https://artin.net/2017/02/15/nvda-rc/",
-				"tags": ["Windows Toegankelijkheid","NVDA"]
+				"tags": ["Windows Toegankelijkheid - Nieuws","NVDA"]
 			},
 			{
 				"id": "http://artindk.micro.blog/2017/02/09/nvda-remote/",
@@ -166,7 +166,7 @@
 				"content_text": "Versie 2.0 van de NVDA Remote addon is uit. Met deze addon kun je een andere computer met NVDA en de NVDA Remote addon op afstand bedienen. Het belangrijkste in deze nieuwe versie is ondersteuning voor braille leesregels. Ga voor meer informatie naar [nvdaremote.com.](http://nvdaremote.com.)\n",
 				"date_published": "2017-02-09T06:22:00+02:00",
 				"url": "https://artin.net/2017/02/09/nvda-remote/",
-				"tags": ["Windows Toegankelijkheid"]
+				"tags": ["Windows Toegankelijkheid - Nieuws"]
 			},
 			{
 				"id": "http://artindk.micro.blog/2017/01/20/nv-access-blog/",
@@ -175,7 +175,7 @@
 				"content_text": "Als je Engels kunt en graag de ontwikkelingen bij NV Access wil volgen, dan is er goed nieuws voor jouw. Er is nu namelijk een officiële NV Access blog. Hier lees je regelmatig het laatste nieuws over NV Access en natuurlijk de NVDA schermlezer. Je vindt de blog op <a href=\"http://www.nvaccess.org/category/in-process/\">http://www.nvaccess.org/category/in-process/</a>. Belangrijk nieuws wordt natuurlijk ook hier op de NVDA Dutch website in het Nederlands gepost.\n",
 				"date_published": "2017-01-20T08:02:00+02:00",
 				"url": "https://artin.net/2017/01/20/nv-access-blog/",
-				"tags": ["Windows Toegankelijkheid","NVDA"]
+				"tags": ["Windows Toegankelijkheid - Nieuws","NVDA"]
 			}
 	]
 }
